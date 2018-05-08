@@ -1,0 +1,23 @@
+{
+  "name": "fsAssignment",
+  "version": "1.0.0",
+  "description": "fs docs - https://nodejs.org/api/fs.html",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisHervois/fsAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisHervois/fsAssignment/issues"
+  },
+  "homepage": "https://github.com/ChrisHervois/fsAssignment#readme",
+  "dependencies": {
+    "fs-extra": "^6.0.0"
+  }
+}
